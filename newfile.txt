@@ -1,1 +1,8 @@
 add some contents to it and push it to GitHub
+Your answer for What is the difference between add, commit, and push?
+
+add is   takes a modified file in your working directory and places the modified version in a staging area.
+
+commit is takes everything from the staging area and makes a permanent snapshot of the current state of your repository that is associated with a unique identifier.
+
+push upload your local repo to git
